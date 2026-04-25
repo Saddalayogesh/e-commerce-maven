@@ -126,7 +126,7 @@ src/main/java/com/java/ecommerce
     ├── ProductUI.java
     
 |  
-    └── DashboardUI.java
+└── DashboardUI.java
 
 ---
 
