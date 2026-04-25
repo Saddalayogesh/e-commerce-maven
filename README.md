@@ -48,7 +48,9 @@ The project demonstrates real-world backend architecture using:
 
 
 src/main/java/com/java/ecommerce
+
 │
+
 ├── controller
 
 │   ├── AuthController.java
@@ -58,6 +60,7 @@ src/main/java/com/java/ecommerce
 │   └── ProductController.java
 
 │
+
 ├── service
 
 │   ├── AuthService.java
@@ -67,31 +70,42 @@ src/main/java/com/java/ecommerce
 │   ├── ProductService.java
 
 │   └── Impl Classes
+
 │
 ├── repository
+
 │   ├── CustomerRepository.java
 
 │   └── ProductRepository.java
+
 │
+
 ├── model
+
 │   ├── Customer.java
 
 │   ├── Product.java
 
 │   └── Address.java
+
 │
+
 ├── enums
 
 │   ├── Gender.java
 
 │   ├── Status.java
+
 │   └── Membership.java
 
 │
+
 ├── factory
 
 │   └── AppFactory.java
+
 │
+
 ├── util
 
 │   ├── CsvParser.java
@@ -99,7 +113,9 @@ src/main/java/com/java/ecommerce
 │   └── InputUtil.java
 
 │
+
 └── ui
+
 |
     ├── AuthUI.java
 |
