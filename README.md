@@ -118,10 +118,13 @@ src/main/java/com/java/ecommerce
 
 |
     ├── AuthUI.java
+    
 |
     ├── CustomerUI.java
+    
 |
     ├── ProductUI.java
+    
 |  
     └── DashboardUI.java
 
