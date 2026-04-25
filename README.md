@@ -100,13 +100,13 @@ src/main/java/com/java/ecommerce
 
 │
 └── ui
-
+|
     ├── AuthUI.java
-    
+|
     ├── CustomerUI.java
-    
+|
     ├── ProductUI.java
-    
+|  
     └── DashboardUI.java
 
 ---
