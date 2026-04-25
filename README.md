@@ -1,4 +1,4 @@
-🛒 Java E-Commerce Console Application
+# Java E-Commerce Console Application 
 
 📌 Overview
 
@@ -50,41 +50,63 @@ The project demonstrates real-world backend architecture using:
 src/main/java/com/java/ecommerce
 │
 ├── controller
+
 │   ├── AuthController.java
+
 │   ├── CustomerController.java
+
 │   └── ProductController.java
+
 │
 ├── service
+
 │   ├── AuthService.java
+
 │   ├── CustomerService.java
+
 │   ├── ProductService.java
+
 │   └── Impl Classes
 │
 ├── repository
 │   ├── CustomerRepository.java
+
 │   └── ProductRepository.java
 │
 ├── model
 │   ├── Customer.java
+
 │   ├── Product.java
+
 │   └── Address.java
 │
 ├── enums
+
 │   ├── Gender.java
+
 │   ├── Status.java
 │   └── Membership.java
+
 │
 ├── factory
+
 │   └── AppFactory.java
 │
 ├── util
+
 │   ├── CsvParser.java
+
 │   └── InputUtil.java
+
 │
 └── ui
+
     ├── AuthUI.java
+    
     ├── CustomerUI.java
+    
     ├── ProductUI.java
+    
     └── DashboardUI.java
 
 ---
